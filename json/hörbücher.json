@@ -24,5 +24,33 @@
         "buch":"H. G. Francis",
         "regie":"Heikedine Körting",
         "musik":"B. Brac/B. George"
+    },
+    "und der Phantomsee":{
+        "name":"Die drei ??? und der Phantomsee",
+        "folge":2,
+        "label":"EUROPA",
+        "altersempfehlung":8,
+        "veröffentlichungsdatum":"13.10.1979",
+        "cover":"https://cdn.smehost.net/hcmssmeappscom-delabelsprod/produkte/hoerspiele/ddf_cd_002.jpg",
+        "inhalt":"Welches Geheimnis verbirgt sich in einem vergilbten Brief und in den nach langer Zeit wieder aufgetauchten Aufzeichnungen des Seemanns Angus Gunn? Wurde tatsächlich in einer lange vergangenen Sturmnacht ein Piratenschatz von einem sinkenden Schiff gestohlen? Das mächten die drei Detektive Justus, Bob und Peter ebenfalls gerne wissen. Den Nachkommen von Gunn ist es bisher nicht gelunge, das Versteck des Schatzes ausfindig zu machen. Professor Shay, den diese Sache für seine Arbeit am Historischen Forschungsinstitut interessiert, hatte bislang auch kein Glück. Immer mehr Personen tauchen auf und machen sich verdächtig. Auch Java-Jim, ein undurchsichtiger Seemann, versucht den drei ??? zuvorzukommen. Und welche Rolle spielt Stebins, der wegen Unterschlagung im Gefängnis war und auf Bewährung frei ist? Der Professor vermutet, daß er und Java-Jim zusammenarbeiten. Aber am Ende sind die drei ??? allen eine Nasenlänge voraus: die vielen rätselhaften Hinweise führen sie zum Phantomsee und damit endlich zur Lösung.",
+        "sprecher":[
+            {"Hitchcock, Erzähler":"Peter Pasetti"},
+            {"Justus Jonas, Erster Detektiv":"Oliver Rohrbeck"},
+            {"Peter Shaw, Zweiter Detektiv":"Jens Wawrczeck"},
+            {"Bob Andrews, Recherchen und Archiv":"Andreas Fröhlich"},
+            {"Tante Mathilda":"Karin Lieneweg"},
+            {"Patrick Kenneth":"Wolfgang Kubach"},
+            {"Java-Jim":"Heinz Überreiter [Gottfried Kramer]"},
+            {"Mrs. Flora Gunn":"Veronika Weckler"},
+            {"Cluny Gunn":"Fabian Harloff"},
+            {"Rory":"Klaus-Peter Reisch [Peter Buchholz]"},
+            {"Stebins":"Hans Meinhardt [Karl-Ulrich Meves"},
+            {"Mr. Widner":"Ernst von Klipstein"},
+            {"Verwalter von Powder Gulch":"Reiner Brönneke"},
+            {"Bibliothekarin":"Katharina Brauren"}
+        ],
+        "buch":"H. G. Francis",
+        "regie":"Heikedine Körting",
+        "musik":"B. Brac/B. George"
     }
 }
