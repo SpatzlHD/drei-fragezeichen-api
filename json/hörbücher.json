@@ -1,0 +1,28 @@
+{
+    "und der super papagei":{
+        "name":"Die drei ??? und der Super-Papagei",
+        "folge":1,
+        "label":"EUROPA",
+        "altersempfehlung":8,
+        "veröffentlichungsdatum":"12.10.1979",
+        "cover":"https://cdn.smehost.net/hcmssmeappscom-delabelsprod/produkte/hoerspiele/ddf_cd_001.jpg",
+        "inhalt":"Der neueste Auftrag an die drei Detektive hört sich recht harmlos an: sie sollen einen entflogenen Papagei suchen. Doch kaum beginnen sie mit ihren Nachforschungen, da scheinen sich plötzlich noch einige andere Leute sehr für diesen Papagei zu interessieren. Vielleicht deshalb, weil er lateinische Sprüche zitieren kann? Aber bald geht es nicht mehr nur um einen, sondern um sieben Papageien - und alle sieben führen höchst seltsame Reden. Ob da nicht eine geheime Botschaft hintersteckt? Jedenfalls sind auch ein jähzorniger Kunsthändler und ein berüchtigter Meisterdieb hinter den Vögeln her. Die drei ??? müssen sich ganz schön die hellen Köpfe zerbrechen, ehe sie auch diesen abenteuerlichen Fall aufklären und eine wohl verdiente Belohnung einheimsen...",
+        "sprecher":[
+            {"Hitchcock, Erzähler":"Peter Pasetti"},
+            {"Justus Jonas, Erster Detektiv":"Oliver Rohrbeck"},
+            {"Peter Shaw, Zweiter Detektiv":"Jens Wawrczeck"},
+            {"Bob Andrews, Recherchen und Archiv":"Andreas Fröhlich"},
+            {"Mr. Fentriss, Schriftsteller":"Richard Lauffen"},
+            {"Mr. Claudius, Kunsthändler":"Gerlach Fiedler"},
+            {"Mrs. Claudius":"Ingrid Andree"},
+            {"Miss Waggoner":"Katharina Brauren"},
+            {"Carlos":"Stefan Brönneke"},
+            {"Onkel Ramos":"Juan Perez [Karl-Ulrich Meves]"},
+            {"Hugenay":"Albert Giro [Wolfgang Kubach]"},
+            {"Morton":"Andreas von der Meden"}
+        ],
+        "buch":"H. G. Francis",
+        "regie":"Heikedine Körting",
+        "musik":"B. Brac/B. George"
+    }
+}
